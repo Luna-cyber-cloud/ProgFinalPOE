@@ -64,3 +64,11 @@ git commit -m "FEAT: Implement HR automation features
 - System-wide validation checks
 - JSON-based data export functionality"
 git push 
+
+### git add Models/Claim.cs Controllers/HomeController.cs
+git commit -m "FIX: Resolve SQLite decimal aggregation issues
+- Implement client-side calculation strategy
+- Fix NotSupportedException for decimal operations
+- Maintain all automation features while fixing limitations
+- Enhanced error handling and user feedback"
+git push
