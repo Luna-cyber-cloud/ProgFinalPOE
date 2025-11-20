@@ -49,3 +49,10 @@ git commit -m "FEAT: Implement coordinator approval workflow
 - Quick action buttons for approvals"
 git push
 
+### git add Views/Admin/AllClaims.cshtml
+git commit -m "FEAT: Add comprehensive claims management
+- All claims overview with filtering
+- Statistics dashboard with totals
+- Professional table design with status indicators
+- Export-ready data presentation"
+git push
