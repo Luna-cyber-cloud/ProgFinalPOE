@@ -35,9 +35,4 @@ A comprehensive web application for managing academic claims with automated work
 - **Database:** SQLite with Code-First approach
 - **Version Control:** Git with strategic commit history
 
-### Setup Instructions
 
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/yourusername/ClaimsSystem-POE.git
-   cd ClaimsSystem-POE
