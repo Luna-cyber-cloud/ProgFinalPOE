@@ -36,3 +36,10 @@ A comprehensive web application for managing academic claims with automated work
 - **Version Control:** Git with strategic commit history
 
 
+###  git add Controllers/HomeController.cs Models/Claim.cs Views/Home/SubmitClaim.cshtml
+git commit -m "FEAT: Implement lecturer auto-calculation and validation
+- Real-time total amount calculation with JavaScript
+- Client-side validation for hours (0.5-100) and rates ($50-$1000)
+- Server-side business rule enforcement
+- Enhanced user experience with instant feedback"
+git push
