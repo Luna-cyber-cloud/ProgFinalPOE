@@ -72,3 +72,11 @@ git commit -m "FIX: Resolve SQLite decimal aggregation issues
 - Maintain all automation features while fixing limitations
 - Enhanced error handling and user feedback"
 git push
+
+### git add Views/Shared/_Layout.cshtml wwwroot/css/site.css Views/Home/Index.cshtml
+git commit -m "STYLE: Enhance user interface and experience
+- Professional Bootstrap styling throughout
+- Responsive design for all screen sizes
+- Improved navigation and layout
+- Real-time statistics on homepage"
+git push
