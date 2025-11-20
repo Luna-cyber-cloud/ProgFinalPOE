@@ -34,5 +34,11 @@ A comprehensive web application for managing academic claims with automated work
 - **Frontend:** Razor Views, JavaScript, jQuery, Bootstrap 5
 - **Database:** SQLite with Code-First approach
 - **Version Control:** Git with strategic commit history
-
+git add Views/Home/ClaimStatus.cshtml wwwroot/css/site.css
+## git commit -m "FEAT: Add claim status tracking and improved UI
+- Real-time status tracking for lecturers
+- Professional status badges (Approved/Pending/Rejected)
+- Responsive table design with Bootstrap
+- Enhanced visual feedback system"
+git push
 
