@@ -41,4 +41,11 @@ git add Views/Home/ClaimStatus.cshtml wwwroot/css/site.css
 - Responsive table design with Bootstrap
 - Enhanced visual feedback system"
 git push
+### git add Controllers/AdminController.cs Views/Admin/Dashboard.cshtml
+git commit -m "FEAT: Implement coordinator approval workflow
+- Two-level approval system (Coordinator → Manager)
+- Smart dashboard for pending claims
+- Progress indicators and workflow tracking
+- Quick action buttons for approvals"
+git push
 
